@@ -1,3 +1,5 @@
+// require ./face-api.min.js
+
 const imageUpload = document.getElementById('imageUpload')
 
 Promise.all([
